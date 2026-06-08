@@ -1,0 +1,88 @@
+Acme Cloud Notes - Company FAQ
+
+About the Product
+Acme Cloud Notes is a note-taking and knowledge management app for small teams.
+It supports real-time collaboration, offline editing, full-text search, and end-to-end
+encryption. Notes sync automatically across web, desktop, and mobile clients.
+
+Pricing
+We offer three plans:
+- Free: 1 user, up to 100 notes, 1 GB storage. Costs nothing, forever.
+- Pro: 199 rupees per user per month. Unlimited notes, 20 GB storage, version history.
+- Team: 499 rupees per user per month. Everything in Pro plus admin controls, SSO,
+  and priority support. Annual billing gives two months free.
+
+Return and Refund Policy
+All paid plans come with a 30-day money-back guarantee. If you are not satisfied,
+email support@acmecloudnotes.example within 30 days of purchase for a full refund.
+Refunds are processed to the original payment method within 7 business days.
+After 30 days, subscriptions are non-refundable but can be cancelled anytime to stop
+future billing.
+
+Support Hours
+Our support team is available Monday to Friday, 9 AM to 6 PM IST.
+Pro and Team customers receive responses within 4 business hours.
+
+Data and Security
+All notes are encrypted at rest and in transit. We never sell customer data.
+You can export all of your notes as Markdown or PDF at any time from Settings.
+
+Q: मेरा ऑर्डर कब डिलीवर होगा?
+A: आप अपने ऑर्डर की अनुमानित डिलीवरी तिथि "My Orders" सेक्शन में देख सकते हैं। डिलीवरी की स्थिति समय-समय पर अपडेट होती रहती है।
+
+Q: मैं अपना ऑर्डर कैसे ट्रैक कर सकता हूँ?
+A: Amazon ऐप या वेबसाइट में लॉगिन करें → "My Orders" पर जाएँ → संबंधित ऑर्डर चुनें → "Track Package" पर क्लिक करें।
+
+Q: मेरा ऑर्डर अभी तक नहीं पहुँचा है, क्या करूँ?
+A: कृपया पहले ऑर्डर ट्रैकिंग स्थिति देखें। यदि अनुमानित डिलीवरी तिथि निकल चुकी है, तो Customer Support से संपर्क करें।
+
+Q: क्या मैं अपना ऑर्डर कैंसल कर सकता हूँ?
+A: हाँ, यदि ऑर्डर अभी शिप नहीं हुआ है, तो आप "My Orders" सेक्शन में जाकर "Cancel Order" विकल्प का उपयोग कर सकते हैं।
+
+Q: मुझे गलत प्रोडक्ट मिला है, क्या करूँ?
+A: "My Orders" में जाकर "Return or Replace Items" विकल्प चुनें और गलत प्रोडक्ट प्राप्त होने की जानकारी दें।
+
+Q: मेरा प्रोडक्ट डैमेज होकर आया है।
+A: आप रिटर्न या रिप्लेसमेंट का अनुरोध कर सकते हैं। उत्पाद की फोटो रखना उपयोगी हो सकता है।
+
+Q: रिफंड कब मिलेगा?
+A: रिफंड का समय भुगतान के तरीके पर निर्भर करता है। आमतौर पर रिफंड 3–10 कार्य दिवसों में आपके खाते में जमा हो जाता है।
+
+Q: मैंने ऑर्डर का पता गलत दर्ज कर दिया है।
+A: यदि ऑर्डर अभी शिप नहीं हुआ है, तो आप पता अपडेट कर सकते हैं। शिप होने के बाद पता बदलना संभव नहीं हो सकता।
+
+Q: क्या Cash on Delivery (COD) उपलब्ध है?
+A: कुछ उत्पादों और क्षेत्रों में COD उपलब्ध होती है। ऑर्डर करते समय उपलब्ध भुगतान विकल्प देख सकते हैं।
+
+Q: रिप्लेसमेंट और रिटर्न में क्या अंतर है?
+A: Replacement में उसी उत्पाद का नया पीस भेजा जाता है, जबकि Return में उत्पाद वापस करके पैसे वापस लिए जाते हैं।
+
+Q: मेरा ऑर्डर "Out for Delivery" दिखा रहा है लेकिन मिला नहीं।
+A: कृपया दिन के अंत तक प्रतीक्षा करें। यदि फिर भी डिलीवरी नहीं होती है, तो ग्राहक सहायता से संपर्क करें।
+
+Q: क्या मैं डिलीवरी की तारीख बदल सकता हूँ?
+A: कुछ ऑर्डर्स के लिए डिलीवरी रिस्केड्यूल करने का विकल्प उपलब्ध होता है। "My Orders" सेक्शन में उपलब्ध विकल्प देखें।
+
+Q: मुझे ऑर्डर का बिल/इनवॉइस कैसे मिलेगा?
+A: "My Orders" में जाएँ → ऑर्डर चुनें → "Download Invoice" पर क्लिक करें।
+
+Q: मेरा भुगतान हो गया लेकिन ऑर्डर दिखाई नहीं दे रहा।
+A: कुछ समय प्रतीक्षा करें। यदि ऑर्डर अभी भी दिखाई नहीं देता है, तो ग्राहक सहायता से संपर्क करें और भुगतान की जानकारी साझा करें।
+
+Q: क्या मैं ऑर्डर प्राप्त होने के बाद रिटर्न कर सकता हूँ?
+A: हाँ, यदि उत्पाद रिटर्न पॉलिसी के अंतर्गत आता है और रिटर्न विंडो के भीतर है, तो आप रिटर्न अनुरोध कर सकते हैं।
+
+Q: डिलीवरी एजेंट से कैसे संपर्क करें?
+A: ऑर्डर ट्रैकिंग पेज पर उपलब्ध होने पर डिलीवरी पार्टनर की संपर्क जानकारी देख सकते हैं।
+
+Q: मेरा ऑर्डर आंशिक रूप से डिलीवर हुआ है।
+A: कुछ ऑर्डर अलग-अलग पैकेज में भेजे जाते हैं। शेष आइटम की डिलीवरी स्थिति "My Orders" में देखें।
+
+Q: मुझे ऑर्डर में कोई आइटम मिसिंग मिला है।
+A: "My Orders" में जाकर Missing Item की रिपोर्ट करें और ग्राहक सहायता से संपर्क करें।
+
+Q: क्या मैं ऑर्डर गिफ्ट के रूप में भेज सकता हूँ?
+A: हाँ, ऑर्डर करते समय Gift Option उपलब्ध होने पर उसका उपयोग कर सकते हैं।
+
+Q: मेरा रिफंड अभी तक प्राप्त नहीं हुआ है।
+A: कृपया पहले बैंक या भुगतान माध्यम की जांच करें। यदि निर्धारित समय से अधिक हो गया है, तो ग्राहक सहायता से संपर्क करें।
