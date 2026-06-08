@@ -41,13 +41,40 @@ _client = chromadb.PersistentClient(path=CHROMA_DIR)
 _groq = Groq()
 
 
+def _build_collection():
+    """Build the collection from the committed docs in data/.
+
+    Runs on fresh deploys (e.g. Hugging Face Spaces) where chroma_db/ is gitignored
+    and `python ingest.py` was never run. Reuses the already-loaded embedder/client.
+    """
+    import ingest
+
+    docs = ingest.read_documents(ingest.DATA_DIR)
+    if not docs:
+        raise RuntimeError(
+            f"No documents found in '{ingest.DATA_DIR}/' to build the knowledge base."
+        )
+
+    chunks, metadatas, ids = [], [], []
+    for source, text in docs:
+        for i, chunk in enumerate(ingest.chunk_text(text)):
+            chunks.append(chunk)
+            metadatas.append({"source": source, "chunk": i})
+            ids.append(f"{source}-{i}")
+    if not chunks:
+        raise RuntimeError("Documents were found but contained no extractable text.")
+
+    embeddings = _embedder.encode(chunks, normalize_embeddings=True).tolist()
+    collection = _client.create_collection(COLLECTION, metadata={"hnsw:space": "cosine"})
+    collection.add(documents=chunks, embeddings=embeddings, metadatas=metadatas, ids=ids)
+    return collection
+
+
 def _get_collection():
     try:
         return _client.get_collection(COLLECTION)
     except Exception:
-        raise RuntimeError(
-            f"Collection '{COLLECTION}' not found. Run `python ingest.py` first to build the knowledge base."
-        )
+        return _build_collection()
 
 
 def ask(query, lang="en"):
